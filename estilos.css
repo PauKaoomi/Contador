@@ -1,0 +1,45 @@
+@import url(https://db.onlinewebfonts.com/c/e695a2b548e145591a266fc50eb492e0?family=Regular);
+*{
+    font-family: "Regular";
+    font-size: 40px;
+}
+
+.contContador{
+    margin: 1px auto;
+    width: 30vw;
+    background-color: #fcc5ff;
+    padding: 3vh;
+    border-radius: 5px;
+}
+
+.contContador h2{
+    margin: 1px auto;
+    width: 30vw;
+    text-align: center;
+}
+
+.grupoBotones{
+    margin: 1px auto;
+    width: 20vw;
+    text-align: center;
+}
+
+.grupoBotones button, button{
+    display: inline-block;
+    border: none;
+    background-color: #332e52;
+    padding: 1vh;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.grupoBotones button{
+    width: 6vw;
+}
+
+.grupoBotones p{
+    display: inline-block;
+    margin-left: 1vh;
+    margin-right: 1vh;
+}
